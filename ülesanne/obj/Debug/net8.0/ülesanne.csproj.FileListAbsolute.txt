@@ -1,0 +1,14 @@
+C:\Users\annas\source\repos\ülesanne\ülesanne\bin\Debug\net8.0\ülesanne.exe
+C:\Users\annas\source\repos\ülesanne\ülesanne\bin\Debug\net8.0\ülesanne.deps.json
+C:\Users\annas\source\repos\ülesanne\ülesanne\bin\Debug\net8.0\ülesanne.runtimeconfig.json
+C:\Users\annas\source\repos\ülesanne\ülesanne\bin\Debug\net8.0\ülesanne.dll
+C:\Users\annas\source\repos\ülesanne\ülesanne\bin\Debug\net8.0\ülesanne.pdb
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ülesanne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ülesanne.AssemblyInfoInputs.cache
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ülesanne.AssemblyInfo.cs
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ülesanne.csproj.CoreCompileInputs.cache
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ülesanne.dll
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\refint\ülesanne.dll
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ülesanne.pdb
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ülesanne.genruntimeconfig.cache
+C:\Users\annas\source\repos\ülesanne\ülesanne\obj\Debug\net8.0\ref\ülesanne.dll

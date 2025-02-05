@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\annas\\source\\repos\\\u00FClesanne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C554396D-2460-4FED-A9CB-B502717E3EEA}|\u00FClesanne\\\u00FClesanne.csproj|c:\\users\\annas\\source\\repos\\\u00FClesanne\\\u00FClesanne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C554396D-2460-4FED-A9CB-B502717E3EEA}|\u00FClesanne\\\u00FClesanne.csproj|solutionrelative:\u00FClesanne\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\annas\\source\\repos\\\u00FClesanne\\\u00FClesanne\\Program.cs",
+              "RelativeDocumentMoniker": "\u00FClesanne\\Program.cs",
+              "ToolTip": "C:\\Users\\annas\\source\\repos\\\u00FClesanne\\\u00FClesanne\\Program.cs",
+              "RelativeToolTip": "\u00FClesanne\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:05:46.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
