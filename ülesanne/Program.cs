@@ -1,5 +1,5 @@
 ﻿
-internal class Program
+internal class Program // test
 {
     static void Main(string[] args)
     {
